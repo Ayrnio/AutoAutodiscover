@@ -1,5 +1,5 @@
 # autoautodiscover
-Hosts File/Registry Modification PowerShell Scripts for AutoDiscover via https://ayrne.io
+Hosts File/Registry Modification PowerShell Scripts for AutoDiscover
 ###How to Use###
 1.      Run PowerShell ISE as admin
 2.      From the PowerShell ISE menu, click on File, Open, locate the file named Add-Hosts-Entry-For-AutoDiscover.ps1 and click on it to open it
